@@ -2004,9 +2004,20 @@ body {
 .cid-rm7BKULnln .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rluAsDRFcN {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #b2ccd2;
+}
+.cid-rluAsDRFcN .mbr-text {
+  color: #767676;
+}
+.cid-rluAsDRFcN .mbr-text P {
+  color: #232323;
+}
 .cid-rm7DKyCWco {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-rm7DKyCWco .title {
@@ -2024,17 +2035,6 @@ body {
 }
 .cid-rm7DKyCWco textarea.form-control {
   min-height: 188px;
-}
-.cid-rluAsDRFcN {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #b2ccd2;
-}
-.cid-rluAsDRFcN .mbr-text {
-  color: #767676;
-}
-.cid-rluAsDRFcN .mbr-text P {
-  color: #232323;
 }
 .cid-rluChQT1Q7 {
   padding-top: 30px;
