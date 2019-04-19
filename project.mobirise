@@ -580,7 +580,7 @@
               "display": "block",
               "font-weight": "normal"
             },
-            ".titlea:after, .title:before": {
+            ".titlea:after, .titlea:before": {
               "content": "''",
               "position": "absolute",
               "right": "1.25em",
