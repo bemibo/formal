@@ -1851,6 +1851,67 @@ body {
 .cid-rltR0hbD3U P {
   color: #767676;
 }
+.cid-rltR0hbD3U * {
+  box-sizing: border-box;
+}
+.cid-rltR0hbD3U .accordion {
+  margin: 0pt auto;
+  padding-bottom: 0pt;
+}
+.cid-rltR0hbD3U .toggle {
+  display: none;
+}
+.cid-rltR0hbD3U .option {
+  position: relative;
+  margin-bottom: 1em;
+}
+.cid-rltR0hbD3U .titlea,
+.cid-rltR0hbD3U .content {
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: all 0.2s;
+}
+.cid-rltR0hbD3U .titlea {
+  padding-left: 0pt;
+  padding-top: 10pt;
+  display: block;
+  font-weight: normal;
+}
+.cid-rltR0hbD3U .titlea:after,
+.cid-rltR0hbD3U .title:before {
+  content: '';
+  position: absolute;
+  right: 1.25em;
+  top: 1.25em;
+  width: 2px;
+  height: 0.75em;
+  background-color: green;
+  transition: all 0.2s;
+}
+.cid-rltR0hbD3U .titlea:after {
+  transform: rotate(90deg);
+}
+.cid-rltR0hbD3U .content {
+  max-height: 0;
+  overflow: hidden;
+  background-color: #fff;
+}
+.cid-rltR0hbD3U .content p {
+  margin: 0;
+  padding-top: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 0.5em;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+.cid-rltR0hbD3U .toggle:checked + .titlea + .content {
+  max-height: 5000px;
+  box-shadow: 3px 3px 6px #dddddd, -3px 3px 6px #dddddd;
+}
+.cid-rltR0hbD3U .toggle:checked + .titlea:before {
+  transform: rotate(90deg) !important;
+}
 .cid-rlK8R3Fazr {
   padding-top: 75px;
   padding-bottom: 60px;
