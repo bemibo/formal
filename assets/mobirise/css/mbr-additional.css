@@ -1800,7 +1800,7 @@ body {
 }
 .cid-rltR0hbD3U {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-rltR0hbD3U h2 {
@@ -1911,6 +1911,18 @@ body {
 }
 .cid-rltR0hbD3U .toggle:checked + .titlea:before {
   transform: rotate(90deg) !important;
+}
+#custom-html-1i {
+  /* Type valid CSS here */
+}
+#custom-html-1i div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-1i p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-rlK8R3Fazr {
   padding-top: 75px;
@@ -2148,4 +2160,16 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+#custom-html-1i {
+  /* Type valid CSS here */
+}
+#custom-html-1i div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-1i p {
+  font-size: 60px;
+  color: #777;
 }
