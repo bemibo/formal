@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ForMaL",
-    "currentPage": "page1.html",
+    "currentPage": "attendance.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1091,7 +1091,7 @@
         }
       ]
     },
-    "page1.html": {
+    "attendance.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Attendance",
