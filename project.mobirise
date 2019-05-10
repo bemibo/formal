@@ -1093,7 +1093,7 @@
     },
     "attendance.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Attendance",
         "title": "Attendance",
         "order": 1
       },
