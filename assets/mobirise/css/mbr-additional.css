@@ -2116,6 +2116,46 @@ body {
 .cid-rm7DKyCWco textarea.form-control {
   min-height: 188px;
 }
+.cid-rrTVTaVZNU {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rrTVTaVZNU .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rrTVTaVZNU .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rrTVTaVZNU .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rrTVTaVZNU .team-item .item-image img {
+  width: 100%;
+}
+.cid-rrTVTaVZNU .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rrTVTaVZNU .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rrTVTaVZNU .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rrTVTaVZNU .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rrTVTaVZNU .team-item .item-caption {
+  background: #efefef;
+}
 .cid-rluChQT1Q7 {
   padding-top: 30px;
   padding-bottom: 15px;
